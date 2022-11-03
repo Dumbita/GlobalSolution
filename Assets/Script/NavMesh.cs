@@ -100,7 +100,7 @@ public class NavMesh : MonoBehaviour
     IEnumerator Nasce()
     {
 
-        yield return new WaitForSeconds(21);
+        yield return new WaitForSeconds(22);
 
         pacote = GameObject.FindGameObjectWithTag(package).transform;
 
