@@ -1,2 +1,2 @@
 # GlobalSolution
-Exam made to test the use of navmesh
+mock Exam made to test the use of navmesh
